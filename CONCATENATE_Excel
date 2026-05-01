@@ -1,0 +1,35 @@
+📊 Pengolahan Teks dengan Fungsi Excel
+Deskripsi
+Proyek ini berfokus pada pembersihan dan pengolahan data teks menggunakan Microsoft Excel agar data lebih rapi dan konsisten.
+
+Dataset
+Data terdiri dari:
+- Jenis sekolah
+- Nama sekolah
+- Keterangan (teks tidak rapi)
+- Hasil teks yang telah diperbaiki
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- TRIM (menghapus spasi berlebih)
+- LOWER (huruf kecil semua)
+- UPPER (huruf besar semua)
+- PROPER (huruf kapital di awal kata)
+- CONCATENATE (menggabungkan teks)
+
+Hasil
+- Teks menjadi lebih rapi dan konsisten
+- Spasi berlebih berhasil dihapus
+- Format huruf dapat disesuaikan sesuai kebutuhan
+- Data siap digunakan untuk analisis
+
+Tujuan Proyek
+- Memahami fungsi teks di Excel
+- Melatih proses data cleaning
+- Mengolah data teks menjadi lebih terstruktur
+
+Insight
+Data teks yang rapi dan konsisten sangat penting dalam analisis data karena mempengaruhi akurasi hasil.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pembersihan dan pengolahan data teks menggunakan Excel.
